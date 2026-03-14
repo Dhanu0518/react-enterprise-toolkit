@@ -1,0 +1,11 @@
+{
+  "name": "react-enterprise-toolkit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Enterprise-grade React patterns for Auth and State Management.",
+  "dependencies": {
+    "react": "^19.0.0",
+    "@azure/msal-react": "^2.0.0",
+    "@reduxjs/toolkit": "^2.0.0"
+  }
+}
